@@ -1,13 +1,7 @@
 
 				<section>
 					<section>				    
-				       <h1>Utilisation</h1>			
-                         <p class="fragment">Bureautique</p>
-                         <p class="fragment">Multimédia</p>		                         
-                         <p class="fragment">Domotique</p>				       
-				         <p class="fragment">Borne d'arcade/Jeu</p>
-	                     <p class="fragment">Développement</p>
-	                     <p class="fragment">Serveur</p>
+				       <h1>Son utilisation principales</h1>			
 					</section>
 						         
 					<section>

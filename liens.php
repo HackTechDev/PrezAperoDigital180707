@@ -1,6 +1,6 @@
 
 				<section style="text-align: left;">
-					<h1>Liens</h1>
+					<h1>Des liens</h1>
 					<p>
                         <ul>
                                 <li>Association FR des Utilisateurs du RPi : <a href="http://forum.raspfr.org/">forum.raspfr.org</a></li>

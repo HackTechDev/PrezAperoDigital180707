@@ -1,6 +1,6 @@
 				<section>
                     <section>
-					<h2>Caractéristiques techniques</h2>
+					<h2>Les caractéristiques techniques</h2>
 
                     <h3>Raspberry Pi 3B+</h3>
 

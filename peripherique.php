@@ -1,6 +1,8 @@
 
 				<section>
-                        <h1>Périphériques</h1>
+                    <section>
+                        <h1>Les périphériques</h1>
+                    </section>
 
     				<section>
 						<h2>Pi-Caméra</h2>
@@ -10,18 +12,6 @@
                         </p>
 					</section>
 	                
-
-					<section>				    
-				       <h2>Pi-Caméra : Time-lapse</h2>			
-                        <video width="320" height="240" controls="controls" poster="video/timelapse.jpg" preload="">
-                        <source src="video/timelapse.ogv"  type="video/ogg" />
-                        <source src="video/timelapse.webm" type="video/webm" />
-                        <source src="video/timelapse.mp4"  type="video/mp4" />
-                        Sorry, your browser does not support HTML5 video
-                        </video>
-
-					</section>
-						                       			
 					<section>
 						<h2>Carte son Wolson</h2>
 						<p>
@@ -33,8 +23,15 @@
 					<section>
 						<h2>Pile système</h2>
 						<p>
-                            <img src="image/pile01.jpg" style="width: 300px">
-                            <img src="image/pile02.jpg" style="width: 300px">
+                            <img src="image/pile1.jpg" style="width: 50%">
+                        </p>
+					</section>
+
+
+					<section>
+						<h2>HAT (Hardware Attached on Top) Arduino</h2>
+						<p>
+                            <img src="image/hat1.jpg" style="width: 50%">
                         </p>
 					</section>
 

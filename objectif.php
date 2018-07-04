@@ -1,6 +1,6 @@
 
 				<section style="text-align: left;">
-					<h1>Objectifs</h1>
+					<h1>Les objectifs</h1>
 					<p>
                         <ul>
                             <li>Encourager l'apprentissage de la programmation informatique</li>

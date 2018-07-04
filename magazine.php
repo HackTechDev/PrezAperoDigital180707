@@ -1,8 +1,5 @@
                 <section>
-                    <h1>Magazines</h1>
-                    <p>
-
-                    </p>
-                
+                    <h1>Des magazines</h1>
+                    <img src="image/magazine.jpg" width="50%">
                 </section>
 

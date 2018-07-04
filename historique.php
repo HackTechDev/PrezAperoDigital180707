@@ -1,6 +1,6 @@
 
 				<section style="text-align: left;">
-					<h1>Historique</h1>
+					<h1>Un historique</h1>
 					<p>
                         <ul>
                             <li>L'idée vient de 4 étudiants, dont Ben Upton, du laboratoire d'informatique de l'Université de Cambridge.</li>

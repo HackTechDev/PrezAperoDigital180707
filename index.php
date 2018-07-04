@@ -56,8 +56,6 @@
 
                 include("caracteristique.php"); 
 
-	        	include("gpio.php"); 
-
                 include("photo.php"); 
 
                 include("materielaacheter.php"); 
@@ -71,6 +69,8 @@
 				include("projet.php"); 
 
                 include("sondage.php");
+
+                include("gpio.php");
 
 				include("liens.php"); 
 
