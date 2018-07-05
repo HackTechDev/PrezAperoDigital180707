@@ -7,6 +7,6 @@
                             </ul>
                             <img src="image/gpio.jpg" width="50%">
                     </p>
-                
+
                 </section>
 

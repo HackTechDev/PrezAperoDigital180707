@@ -1,122 +1,126 @@
 <!doctype html>
 <html lang="en">
 
-	<head>
-		<meta charset="utf-8">
+    <head>
+        <meta charset="utf-8">
 
-		<title>Raspberry Pi - Nano-ordinateur</title>
+        <title>Raspberry Pi - Nano-ordinateur</title>
 
-		<meta name="description" content="Présentation du nano-ordinateur : Raspberry Pi">
-		<meta name="author" content="Sam">
+        <meta name="description" content="Présentation du nano-ordinateur : Raspberry Pi">
+        <meta name="author" content="Sam">
 
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/black.css" id="theme">
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
+        <!-- Theme used for syntax highlighting of code -->
+        <link rel="stylesheet" href="lib/css/zenburn.css">
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
+        <!-- Printing and PDF exports -->
+<script>
+var link = document.createElement( 'link' );
+link.rel = 'stylesheet';
+link.type = 'text/css';
+link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
 
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
-	</head>
+        <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
 
-	<body>
+    <body>
 
-		<div class="reveal">
+        <div class="reveal">
 
-			<!-- Any section element inside of this container is displayed as a slide -->
-			<div class="slides">
-                <?php
+            <!-- Any section element inside of this container is displayed as a slide -->
+            <div class="slides">
+<?php
 
-                include("apero.php");
+include("apero.php");
 
-                include("couverture.php");
+include("couverture.php");
 
-                include("ordinateur.php"); 
+include("ordinateur.php"); 
 
-				include("sommaire.php"); 
-            
-                include("historique.php"); 			
+include("sommaire.php"); 
 
-                include("objectif.php"); 			
+include("historique.php"); 			
 
-                include("caracteristique.php"); 
+include("objectif.php"); 			
 
-                include("photo.php"); 
-                
-                include("inconvenient.php"); 
+include("caracteristique.php"); 
 
-                include("materielaacheter.php"); 
+include("photo.php"); 
 
-				include("installation.php"); 
+include("inconvenient.php"); 
 
-                include("utilisation.php");
+include("materielaacheter.php"); 
 
-                include("peripherique.php");
+include("installation.php"); 
 
-				include("projet.php"); 
+include("utilisation.php");
 
-                include("sondage.php");
+include("peripherique.php");
 
-                include("gpio.php");
+include("projet.php"); 
 
-				include("liens.php"); 
+include("sondage.php");
 
-                include("magazine.php");
+include("gpio.php");
 
-                include("livre.php");
+include("liens.php"); 
 
-                include("ilard.php");    
+include("magazine.php");
 
-				include("zeend.php"); 
+include("livre.php");
 
-                ?>
+include("autremodele.php");
 
-			</div>
+include("alternative.php");
 
-		</div>
+include("ilard.php");    
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+include("zeend.php"); 
 
-		<script>
+?>
 
-			// More info https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
+            </div>
 
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
+        </div>
 
-				// More info https://github.com/hakimel/reveal.js#dependencies
-				dependencies: [
-					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'plugin/search/search.js', async: true },
-					{ src: 'plugin/zoom-js/zoom.js', async: true },
-					{ src: 'plugin/notes/notes.js', async: true }
-				]
-			});
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
 
-		</script>
+<script>
 
-	</body>
+// More info https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+controls: true,
+    progress: true,
+    history: true,
+    center: true,
+
+    transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+    // More info https://github.com/hakimel/reveal.js#dependencies
+    dependencies: [
+{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+{ src: 'plugin/search/search.js', async: true },
+{ src: 'plugin/zoom-js/zoom.js', async: true },
+{ src: 'plugin/notes/notes.js', async: true }
+]
+});
+
+</script>
+
+    </body>
 </html>

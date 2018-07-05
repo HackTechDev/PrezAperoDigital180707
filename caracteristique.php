@@ -1,12 +1,12 @@
-				<section>
+                <section>
                     <section>
-					<h2>Les caractéristiques techniques</h2>
+                    <h2>Les caractéristiques techniques</h2>
 
                     <h3>Raspberry Pi 3B+</h3>
 
                     </section>
 
-					<section>
+                    <section>
                         <table>
                             <tr>
                                 <td>Date de lancement</td><td>14 mars 2018</td>
@@ -27,9 +27,9 @@
                                 <td>USB 2.0 </td><td>4</td>
                             </tr>
                         </table>
-					</section>
-					
-					<section>
+                    </section>
+
+                    <section>
                         <table>
                             <tr>
                                 <td>Sorties vidéos </td><td>HDMI et Composite (via un connecteur Jack)</td>
@@ -52,7 +52,7 @@
                         </table>
 
                     </section>
-                    
+
                     <section>
 
                         <table>
@@ -77,8 +77,8 @@
 
                         </table>
 
-					</section>
-					
+                    </section>
 
-				</section>
-            
+
+                </section>
+
