@@ -2,10 +2,9 @@
                 <section>
                     <h1>Le matériel à acheter</h1>
                 </section>
-                
 
                 <section>
-                    Un écran : HDMI, composite ou VGA (adaptateur HDMI/VGA)<br/>
+                    Un écran : HDMI ou VGA (adaptateur HDMI/VGA)<br/>
                     <img src="image/ecran.jpg" width="50%">
                 </section>
                 <section>

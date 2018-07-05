@@ -57,6 +57,8 @@
                 include("caracteristique.php"); 
 
                 include("photo.php"); 
+                
+                include("inconvenient.php"); 
 
                 include("materielaacheter.php"); 
 
