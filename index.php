@@ -66,13 +66,13 @@ include("installation.php");
 
 include("utilisation.php");
 
+include("gpio.php");
+
 include("peripherique.php");
 
 include("projet.php"); 
 
 include("sondage.php");
-
-include("gpio.php");
 
 include("liens.php"); 
 
