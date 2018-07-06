@@ -1,25 +1,24 @@
 
                 <section>
-                    <h1>Les alternatives</h1>
-                    <p>
-                        <ul>
-                            <li>LattePanda<br/>
+                    <section>
+<h1>Les alternatives</h1>
+</section>
+
+                            <section>LattePanda<br/>
                              <img src="image/lattepanda.jpg" width="50%">
-                            </li>
-                            <li>Cubieboard<br/>
-                             <img src="image/cubieboard.jpg" width="50%">
-                            </li>
-                            <li>pcDuino<br/>
-                             <img src="image/pcduino.jpg" width="50%">
-                            </li>
-                            <li>Banana Pi<br/>
+                            </section>
+                            <section>Cubieboard<br/>
+                             <img src="image/cubieboard.png" width="50%">
+                            </section>
+                            <section>pcDuino<br/>
+                             <img src="image/pcduino.png" width="50%">
+                            </section>
+                            <section>Banana Pi<br/>
                              <img src="image/bananapi.jpg" width="50%">
-                            </li>
-                            <li>BeagleBone<br/>
+                            </section>
+                            <section>BeagleBone<br/>
                              <img src="image/beaglebone.jpg" width="50%">
-                            </li>
-                        </ul>
-                    </p>
+                            </section>
                 </section>
 
 
