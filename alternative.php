@@ -4,19 +4,19 @@
                     <p>
                         <ul>
                             <li>LattePanda<br/>
-                             <img src="image/.jpg" width="50%">
+                             <img src="image/lattepanda.jpg" width="50%">
                             </li>
-                            <li>Cubieboarda<br/>
-                             <img src="image/.jpg" width="50%">
+                            <li>Cubieboard<br/>
+                             <img src="image/cubieboard.jpg" width="50%">
                             </li>
-                            <li>pcDuinoa<br/>
-                             <img src="image/.jpg" width="50%">
+                            <li>pcDuino<br/>
+                             <img src="image/pcduino.jpg" width="50%">
                             </li>
-                            <li>Banana Pia<br/>
-                             <img src="image/.jpg" width="50%">
+                            <li>Banana Pi<br/>
+                             <img src="image/bananapi.jpg" width="50%">
                             </li>
-                            <li>BeagleBonea<br/>
-                             <img src="image/.jpg" width="50%">
+                            <li>BeagleBone<br/>
+                             <img src="image/beaglebone.jpg" width="50%">
                             </li>
                         </ul>
                     </p>

@@ -4,7 +4,7 @@
                     <p>
                         <ul>
                             <li>Raspberry Pi Zero WH<br/>
-                            <img src="image/.jpg" width="50%">	
+                            <img src="image/pizero.jpg" width="50%">	
                             </li>
                         </ul>
                     </p>
