@@ -1,7 +1,7 @@
 
                 <section>
                     <section>				    
-                       <h1>Son utilisation principales</h1>			
+                       <h1>Ses principales utilisations</h1>			
                     </section>
 
                     <section>
